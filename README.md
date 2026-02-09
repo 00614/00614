@@ -1,4 +1,5 @@
-## Hi there 👋
+## Cześć ✌🏻
+Jeśli już tu jesteś, to zajrzyj... ;)
 
 <!--
 **00614/00614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
